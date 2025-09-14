@@ -1,7 +1,3 @@
-Here’s a clean **README.md** you can use for GitHub 👇
-
----
-
 # Pacghost 🎮
 
 Pacghost is a fun little **terminal-based game** I hacked together pretty quickly.
@@ -64,6 +60,3 @@ python pacghost_refined_human.py
 * Works best at \~80×24 or bigger terminal window.
 * This is a fun side project, so expect more polish later.
 
----
-
-Would you like me to make the **README sound more like a playful story** (“I made this at 3am, and it turned into Pacghost…”) or keep it clean and professional like above?
